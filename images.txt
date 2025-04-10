@@ -1,1 +1,1 @@
-penpotapp/backend
+penpotapp/frontend

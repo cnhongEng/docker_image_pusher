@@ -1,1 +1,1 @@
-penpotapp/frontend
+wordpress:php7.4-fpm-alpine

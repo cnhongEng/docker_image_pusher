@@ -1,1 +1,1 @@
-eclipse-temurin:21.0.7_6-jdk
+nginx

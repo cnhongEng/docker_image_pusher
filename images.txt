@@ -1,1 +1,1 @@
-qdrant/qdrant:dev
+qdrant/qdrant

@@ -1,1 +1,1 @@
-qdrant/vector-db-benchmark:latest
+qdrant/qdrant:dev

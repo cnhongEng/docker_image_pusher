@@ -1,1 +1,1 @@
-qdrant/qdrant
+nacos/nacos-server
